@@ -1,6 +1,6 @@
 {
-  "name": "@alepop/stencil-env",
-  "version": "0.4.1",
+  "name": "@jumpgroup/stencil-env",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -19,14 +19,14 @@
   ],
   "devDependencies": {
     "@types/node": "14.0.4",
-    "typescript": "3.9.3"
+    "typescript": "3.9.3",
+    "@types/dotenv-flow": "^3.0.0"
   },
   "dependencies": {
-    "@types/dotenv": "^8.2.0",
-    "dotenv": "8.2.0"
+    "dotenv-flow": "^3.2.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/alepop/stencil-env.git"
+    "url": "git://github.com/jump-group/stencil-env"
   }
 }

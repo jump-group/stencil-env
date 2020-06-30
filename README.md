@@ -1,3 +1,8 @@
+# @jumpgroup/stencil-env
+This package is a fork of @alepop/stencil-env. It loads envs from process.env during build time, useful while working with Vercel. Swaps [dotenv](https://github.com/motdotla/dotenv) for [dotenv-flow](https://github.com/kerimdzhanov/dotenv-flow).
+
+Here's the original package README.
+
 # @alepop/stencil-env
 
 This package is used to use env variables from `.env` file in your stencil project files.
