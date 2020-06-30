@@ -1,5 +1,5 @@
 {
-  "name": "@jumpgroup/stencil-env",
+  "name": "@jump-group/stencil-env",
   "version": "0.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -28,5 +28,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/jump-group/stencil-env"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
