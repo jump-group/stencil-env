@@ -1,5 +1,5 @@
 {
-  "name": "@jump-group/stencil-env",
+  "name": "@jumpgroup/stencil-env",
   "version": "0.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -27,9 +27,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jump-group/stencil-env"
+    "url": "git://github.com/jump-group/stencil-env.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
+  "bugs": {
+    "url": "https://github.com/jump-group/stencil-env/issues"
+  },
+  "homepage": "https://github.com/jump-group/stencil-env#readme"
 }
