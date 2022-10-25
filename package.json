@@ -18,7 +18,7 @@
     "plugin"
   ],
   "devDependencies": {
-    "@types/node": "14.0.4",
+    "@types/node": "18.11.5",
     "typescript": "3.9.3",
     "@types/dotenv-flow": "^3.0.0"
   },
